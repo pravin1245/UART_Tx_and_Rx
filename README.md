@@ -3,6 +3,10 @@ FPGA-based UART interface to display decimal and hexadecimal values on dual 4-di
 
 # UART to 7-Segment FPGA Display
 
+![WhatsApp Image 2025-12-15 at 9 35 34 AM](https://github.com/user-attachments/assets/ae823463-fae6-417f-838e-05990b4ba50a)
+
+
+
 ## Overview
 This project demonstrates an FPGA-based system that receives 8-bit data over UART from a PC terminal (using **Docklight software**) and displays:
 
